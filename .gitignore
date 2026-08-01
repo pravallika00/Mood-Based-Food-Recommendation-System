@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Models
+*.h5
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Optional
+backend/models/
+
+# OS
+.DS_Store
+Thumbs.db
